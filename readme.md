@@ -21,3 +21,8 @@ Hacemos `git remote -v` y nos muestra:
 `
 origin  https://github.com/EricMuntas/repo01.git (fetch)
 origin  https://github.com/EricMuntas/repo01.git (push)`
+
+## 1.8 - 1.9
+Vemos que se han subido correctamente los cambios a GitHub
+![Ejercicio1.1](img/img4.png)
+También se muestra correctamente el `readme.md`.
