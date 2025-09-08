@@ -8,4 +8,4 @@ Para ver que el repositorio se ha inicializado correctamente, podemos observar q
 Creamos el archivo `readme.md`.
 
 ## 1.3
-Hacemos `git add .` para añadir los cambios al "staging area".
+Hacemos `git add .` para añadir los cambios al "staging area" y visualizamos el estado del repositorio con `git status`. Finalmente creamos el commit. El "file status lifecycle" que se encuentra es "staged".
